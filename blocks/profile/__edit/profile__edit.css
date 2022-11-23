@@ -1,13 +1,7 @@
 ﻿.profile__edit {
-    /* color: #FFFFFF;
-    background-color: #000000; */
     background: url(../../../images/editButton.svg);
     border: 0;
-    /* border: 1px solid #ffffff; */
-    /* box-sizing: border-box; */
     width: 24px;
     height: 24px;
-    /* text-align: center; */
     padding: 0;
-    /* line-height: 1; */
 }

@@ -1,5 +1,6 @@
 ﻿.profile__add {
     background: url(../../../images/add.svg) center no-repeat;
+    background-size: 22px 22px;
     border: 2px solid #ffffff;
     border-radius: 2px;
     width: 150px;
