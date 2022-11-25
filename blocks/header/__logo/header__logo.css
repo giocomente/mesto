@@ -3,3 +3,11 @@
     margin-bottom: 40px;
     display: block;
 }
+
+@media only screen and (max-width: 879px) {
+    .header__logo {
+        max-width: 104px;
+        margin: 28px auto 32px 28px;
+        display: block;
+    }
+}

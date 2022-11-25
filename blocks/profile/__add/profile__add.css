@@ -8,3 +8,11 @@
     padding: 0;
     margin-left: auto;
 }
+
+@media only screen and (max-width: 879px) {
+    .profile__add {
+        min-width: 282px;
+        background-size: 16px 16px;
+        margin: 36px 0 0 0;
+    }
+}

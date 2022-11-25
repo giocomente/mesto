@@ -7,3 +7,13 @@
     color: #FFFFFF;
     margin: 0 18px 16px 0;
 }
+
+@media only screen and (max-width: 879px) {
+    .profile__author {
+        font-weight: 500;
+        font-size: 27px;
+        line-height: 1.22;
+        text-align: center;
+        margin: 26px 10px 0 0;
+    }
+}
