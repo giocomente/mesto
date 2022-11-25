@@ -1,11 +1,4 @@
 ﻿.content {
     padding: 40px 0 0 0;
-    min-width: calc(100% - 200px*2);
-}
-
-@media only screen and (max-width: 879px) {
-    .content {
-        /* padding: 40px 0 0 0;
-        min-width: calc(100% - 200px*2); */
-    }
+    /* min-width: calc(100% - 200px*2); */
 }
