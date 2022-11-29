@@ -8,12 +8,11 @@
     margin: 0 18px 16px 0;
 }
 
-@media only screen and (max-width: 879px) {
+@media only screen and (max-width: 768px) {
     .profile__author {
-        font-weight: 500;
         font-size: 27px;
-        line-height: 1.22;
+        line-height: 1.222;
         text-align: center;
-        margin: 26px 10px 0 0;
+        margin: 0 10px 14px 0;
     }
 }
